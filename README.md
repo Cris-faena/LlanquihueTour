@@ -1,9 +1,9 @@
-Proyecto Llanquihue Tour 
+## Proyecto Llanquihue Tour 
 
 Nombre del Alumno:	Cristián Fáundez.
-Carrera:			Analista Programador Computacional.
-Fecha de entrega:	08 de Julio del 2026.
-Objetivo del proyecto
+Carrera:						Analista Programador Computacional.
+Fecha de entrega:		08 de Julio del 2026.
+#### Objetivo del proyecto
 
 - Entregar una solución tecnológica para la empresa Llanquihue Tour, ubicada en la comuna de **Llanquihue**, en la Región de Los Lagos. Esta empresa, si bien es líder en el organización de experiencias turísticas, presenta algunos inconvenientes digitales que le impiden mejorar la experiencia de los usuarios.
 - Dichos problemas incluían: 
@@ -14,7 +14,7 @@ Objetivo del proyecto
 	4.Poca reutilización de estructuras.
 - Ante este panorama, se construyó un sistema informático para dar solución a los requerimientos de dicha empresa.
 
-Estructura del proyecto.
+####Estructura del proyecto.
 - A continuación se muestra una imagen general de la estructura del proyecto:
 
 📁 src/
@@ -22,7 +22,7 @@ Estructura del proyecto.
 ├── model/       # Clases de dominio (Persona, Conductor, Guía de Monataña, Recepcionista, Email, Rut y Dirección)
 ├── utils/       # Utilidades y validaciones (Validador de Email)
 
-Instrucciones para ejecutar el proyecto
+#### Instrucciones para ejecutar el proyecto
 
 1. Clona el repositorio desde GitHub:
 https://github.com/Cris-faena/LlanquihueTour.git
