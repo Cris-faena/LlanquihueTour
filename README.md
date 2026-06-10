@@ -3,7 +3,7 @@ Proyecto Llanquihue Tour
 ```txt
 Nombre del Alumno:   Cristián Fáundez
 Carrera:             Analista Programador Computacional
-Fecha de entrega:    08 de Julio del 2026
+Fecha de entrega:    08 de Junio del 2026
 ```
 
 
